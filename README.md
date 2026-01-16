@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anamika Sharma
 
 ## 💫 About Me
-Frontend / React Developer with 1.5+ years of industry experience building scalable, high-performance web applications.
+Frontend / React Developer with 2+ years of industry experience building scalable, high-performance web applications.
 
 - Strong foundation in **JavaScript (ES6+)** and **React.js**
 - Hands-on experience with **Redux Toolkit**, REST APIs, and UI performance optimization
