@@ -47,10 +47,13 @@ Frontend / React Developer with 1.5+ years of industry experience building scala
 ---
 
 ## 🛠️ What I’m Working On
-- Building **startup-style React applications**
-- Improving **frontend architecture & performance**
-- Practicing **JavaScript, React internals, and interview-focused DSA**
-- Exploring **MERN stack** through real projects
+- Building **production-ready React applications** with reusable component architecture
+- Integrating frontend applications with **REST APIs** (Java Spring Boot & Node.js backends)
+- Implementing **Redux Toolkit** for scalable state management
+- Improving **UI performance, code maintainability, and responsiveness**
+- Strengthening **JavaScript fundamentals, React internals, and interview-focused DSA**
+- Developing **startup-style projects** following real-world frontend engineering practices
+
 
 ---
 
@@ -63,6 +66,6 @@ Frontend / React Developer with 1.5+ years of industry experience building scala
 
 📫 **Let’s Connect**
 - LinkedIn: https://www.linkedin.com/in/anamika-sh  
-- Email: anamika110827@gmail.com
+- Email: anamikasharma110899@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=anamika110899&icon=0&color=0)](https://visitcount.itsvg.in)
